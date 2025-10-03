@@ -1,0 +1,19 @@
+
+
+/* reset */
+
+@import url(/style/global/reset.css);
+
+/* variaveis */
+
+@import url(/style/global/variaveis.css);
+
+/* section */
+
+
+
+
+
+/* responsive */
+
+@import url(/style/mobile/responsividade-mobile.css);
