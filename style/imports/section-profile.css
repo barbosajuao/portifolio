@@ -1,0 +1,85 @@
+.container-conteudo{
+    max-width: 1200px;
+    height: 600px;
+    margin: auto;
+    background-color: #000000;
+    color: #A1A1AA;
+    font-family: Inter;
+}
+.section-profile{
+    display: flex;
+}
+.profile{
+    width: 30%;
+    padding-top: 60px;
+}
+.img-profile{
+    width: 60%;
+    height: 200px;
+    background-color: #F4F4F5;
+    margin: 0 auto;
+    border-radius: 50%;
+    
+}
+.profile-desk{
+    width: 100%;
+    font-size: 12px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+.cv{
+    width: 100px;
+    background-color: #18181B;
+    border: none;
+    color: #A1A1AA;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.txt{
+    width: 60%;
+    margin-top: 80px;
+}
+.name{
+    display: flex;
+    gap: 30px;
+}
+.name h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #F4F4F5;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color:#F7B733;
+    font-size: 12px;
+}
+
+.flex-butoon{
+    display: flex;
+    gap: 50px;
+    margin-top: 40px;
+}
+.whatts{
+    width: 150px;
+    height: 40px;
+    border: 1px solid #F4F4F5;
+    color: #A1A1AA;
+    border-radius: 10px;
+    line-height:40px;
+    text-align: center;
+    cursor: pointer;
+}
+.Linkedin{
+    width: 150px;
+    height: 40px;
+    background-color: #f4f4f5de;
+    color: #18181B;
+    line-height:40px;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
